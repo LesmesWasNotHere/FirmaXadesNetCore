@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Authors>Verdun Labs</Authors>
-    <Company>TelviSoft CR</Company>
+    <Authors>Lesmes González</Authors>
+    <Company></Company>
     <RepositoryUrl>https://github.com/newverdun/FirmaXadesNetCore</RepositoryUrl>
     <PackageLicenseUrl>https://github.com/newverdun/FirmaXadesNetCore/blob/master/License/LICENSE.txt</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/newverdun/FirmaXadesNetCore</PackageProjectUrl>
@@ -14,6 +14,7 @@ FirmaXadesNet es una librería desarrollada en C# para la generación de firmas 
 </Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>3.1.2</Version>
+    <PackageId>LesmesWasNotHere.$(AssemblyName)</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
