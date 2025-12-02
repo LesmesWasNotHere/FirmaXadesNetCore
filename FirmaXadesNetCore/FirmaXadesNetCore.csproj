@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.1</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Verdun Labs</Authors>
     <Company>TelviSoft CR</Company>
     <RepositoryUrl>https://github.com/newverdun/FirmaXadesNetCore</RepositoryUrl>
