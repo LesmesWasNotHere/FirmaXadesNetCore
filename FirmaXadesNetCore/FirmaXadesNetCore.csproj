@@ -4,9 +4,9 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Lesmes González</Authors>
     <Company></Company>
-    <RepositoryUrl>https://github.com/newverdun/FirmaXadesNetCore</RepositoryUrl>
-    <PackageLicenseUrl>https://github.com/newverdun/FirmaXadesNetCore/blob/master/License/LICENSE.txt</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/newverdun/FirmaXadesNetCore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/LesmesWasNotHere/FirmaXadesNetCore</RepositoryUrl>
+    <License>https://github.com/LesmesWasNotHere/FirmaXadesNetCore/blob/master/License/LICENSE.txt</License>
+    <PackageProjectUrl>https://github.com/LesmesWasNotHere/FirmaXadesNetCore</PackageProjectUrl>
     <PackageIconUrl>https://docs.microsoft.com/es-es/dotnet/images/hub/netcore.svg</PackageIconUrl>
     <Description>FirmaXadesNetCore es una adaptacion a .NET Standard 2.0
 
